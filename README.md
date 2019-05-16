@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi!
+
+Rnid here. Learning to code. Day 1 :)
